@@ -1,14 +1,17 @@
-<img src="https://raw.githubusercontent.com/ABYSSALCHOIR/ABYSSALCHOIR/main/230%20sin%20t%C3%ADtulo_0000-09-59_20260710021006.png">
-
-<img src="https://raw.githubusercontent.com/ABYSSALCHOIR/ABYSSALCHOIR/main/230%20sin%20t%C3%ADtulo_0000-09-59_20260710021131.png">
 <div align="center">
 
-─── ♡ ───
+<img src="https://raw.githubusercontent.com/ABYSSALCHOIR/ABYSSALCHOIR/main/TU-IMAGEN.png" width="700">
 
-✦ [strawpage](https://abyssalchoir.straw.page)
-✦ [tiktok](https://www.tiktok.com/@twinklelovesmika)
+<br>
 
-─── ◇ ───
+<img src="https://readme-typing-svg.demolab.com?font=Cherry+Bomb+One&size=28&pause=999999&color=F7A8D7&center=true&vCenter=true&repeat=false&width=500&lines=୨୧+TWINKLE+୨୧">
+
+˚₊‧♡‧₊˚
+
+<a href="https://abyssalchoir.straw.page">🩵 Strawpage</a>
+‎ ‎ ♡ ‎ ‎
+<a href="https://www.tiktok.com/@twinklelovesmika">🩷 TikTok</a>
+
+˚₊‧♡‧₊˚
 
 </div>
- <img src="https://raw.githubusercontent.com/ABYSSALCHOIR/ABYSSALCHOIR/main/230%20sin%20t%C3%ADtulo_0000-09-59_20260710020924.png">
