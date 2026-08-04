@@ -5,4 +5,6 @@
   <img src="https://raw.githubusercontent.com/ABYSSALCHOIR/ABYSSALCHOIR/main/image-5332-gradientmap.pro.png" alt="Profile" width="250">
 
 <img src="./text2.svg">
-<img src="./rentrybutton.svg">
+<a href="https://rentry.co/rentry_abyssalchoir">
+  <img src="./rentrybutton.svg">
+</a>
