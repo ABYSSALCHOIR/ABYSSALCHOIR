@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/ABYSSALCHOIR/ABYSSALCHOIR/-5332-gradientmap.pro.png" width= "300">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABYSSALCHOIR/ABYSSALCHOIR/main/image-5332-gradientmap.pro.png" alt="Profile" width="250">
+</p>
 ─── ♡ ───
 
 ✦— [strawpage](https://abyssalchoir.straw.page)
