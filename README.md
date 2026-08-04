@@ -1,5 +1,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/cute-13.483-F3D494?style=flat&labelColor=9D3870">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABYSSALCHOIR/ABYSSALCHOIR/refs/heads/main/8440_Butterfly_Orange.gif" width="28">
+</p>
+ 
   <img src="https://img.shields.io/badge/love%20%E2%99%A1-9.999-7FAEF4?style=flat&labelColor=19367A">
 </p>
 
