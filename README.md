@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABYSSALCHOIR/ABYSSALCHOIR/main/image-5332-gradientmap.pro.png" alt="Profile" width="250">
-</p>
+
 
        <p>
   <span style="color:#F3D494;">check my </span>
