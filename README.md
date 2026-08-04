@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/cute-13.483-3889FF?style=flat-square&labelColor=FF6D3E&color=3889FF">
 
   <p align="center">
-  <img src="https://img.shields.io/badge/love_%E2%99%A1-19367A?style=for-the-badge&labelColor=19367A&color=19367A&logoColor=7FAEF4&label=love%20%E2%99%A1&color=19367A&textColor=7FAEF4" alt="love badge">
+  <img src="https://img.shields.io/badge/love_%E2%99%A1-9.999?style=for-the-badge&labelColor=19367A&color=7FAEF4">
 </p>
 
 <p align="center">
