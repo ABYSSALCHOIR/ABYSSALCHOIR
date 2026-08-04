@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="80">
+  <text x="325" y="45" 
+        text-anchor="middle"
+        font-family="Arial"
+        font-size="22"
+        font-weight="bold">
+    <tspan fill="#F3D494">check </tspan>
+    <tspan fill="#7FAEF4">my </tspan>
+    <tspan fill="#3889FF">rentry </tspan>
+    <tspan fill="#FF6D3E">to </tspan>
+    <tspan fill="#9D3870">int </tspan>
+    <tspan fill="#F3D494">w </tspan>
+    <tspan fill="#7FAEF4">me</tspan>
+  </text>
+</svg>
