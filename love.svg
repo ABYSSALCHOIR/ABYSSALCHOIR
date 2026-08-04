@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="45">
+  <rect width="160" height="45" rx="15" fill="#3889FF"/>
+  <text x="80" y="29"
+        text-anchor="middle"
+        font-family="Arial"
+        font-size="22"
+        font-weight="bold"
+        fill="#F3D494">
+    love ♡
+  </text>
+</svg>
