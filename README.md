@@ -4,8 +4,7 @@
   <img src="https://img.shields.io/badge/love%20%E2%99%A1-9.999-7FAEF4?style=flat&labelColor=19367A">
 </p>
  
-  <img src="https://img.shields.io/badge/love%20%E2%99%A1-9.999-7FAEF4?style=flat&labelColor=19367A">
-</p>
+
 
   
 
