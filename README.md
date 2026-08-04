@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/cute-F3D494-F3D494?style=flat-square&labelColor=F3D494&color=F3D494">
+  <img src="https://img.shields.io/badge/cute-13.483-F3D494?style=flat-square&labelColor=F3D494&color=F3D494">
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABYSSALCHOIR/ABYSSALCHOIR/main/image-5332-gradientmap.pro.png" alt="Profile" width="250">
