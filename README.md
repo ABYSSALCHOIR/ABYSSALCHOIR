@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/cute-13.483-7FAEF4?style=for-the-badge&labelColor=19367A">
-  <img src="https://img.shields.io/badge/love%20%E2%99%A1-9.999-7FAEF4?style=for-the-badge&labelColor=19367A">
+  <img src="https://img.shields.io/badge/cute-13.483-F3D494?style=flat&labelColor=9D3870">
+  <img src="https://img.shields.io/badge/love%20%E2%99%A1-9.999-7FAEF4?style=flat&labelColor=19367A">
 </p>
 
   
