@@ -7,4 +7,3 @@
        
 
 
-<img src="https://raw.githubusercontent.com/ABYSSALCHOIR/ABYSSALCHOIR/main/ezgif-371420ea4fb7f835.gif" width="300">
