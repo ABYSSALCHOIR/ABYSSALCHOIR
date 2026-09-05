@@ -12,7 +12,7 @@
   <img src="image-cc7b-gradientmap.pro.png" width="500">
 
 <p align="center">
-  <img src="Rentryy.svg">
+  <img src="rentryy.svg">
 </p>
 
 <a href="https://rentry.co/abyssalpastelitos">
