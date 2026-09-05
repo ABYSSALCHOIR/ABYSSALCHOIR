@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="43">
-  <text x="50%" y="30" font-family="Arial" font-size="19" font-weight="bold" text-anchor="middle">
+  <text x="50%" y="30" font-family="Arial" font-size="10" font-weight="bold" text-anchor="middle">
     <tspan fill="#FEEED7">check </tspan>
     <tspan fill="#FFB35D">my </tspan>
     <tspan fill="#FA6B99">rentry </tspan>
