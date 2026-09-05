@@ -15,6 +15,7 @@
   <img src="rentryy.svg">
 </p>
 
+<p align="center">
 <a href="https://rentry.co/abyssalpastelitos">
   <img src="./rentrybutton.svg">
 </a>
