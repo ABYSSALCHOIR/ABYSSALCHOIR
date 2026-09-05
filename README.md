@@ -13,7 +13,7 @@
 
 <p align="center">
   <img src="rentryy.svg" width="400">
-
+</p>
 
 <a href="https://rentry.co/abyssalpastelitos">
   <img src="./rentrybutton.svg">
