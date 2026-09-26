@@ -20,3 +20,8 @@
   <img src="./rentrybutton.svg">
 </a>
 
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313x5kxocymnvgau5px25z6ef5re&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
+  </a>
+</p>
